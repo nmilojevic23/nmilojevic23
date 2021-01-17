@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Nikola, Machine Learning Engineer interested in Deep Learning and AI on the Edge.
+
+#### Connect:
+[<img align="left" alt="Nikola Milojevic | LinkedIn" width="22px" src src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/nmilojevic)
+
 <!--
 **nmilojevic23/nmilojevic23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
