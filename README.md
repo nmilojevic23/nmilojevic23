@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nikola, Machine Learning Engineer interested in Deep Learning and AI on the Edge.
+I am Nikola, Machine Learning Engineer interested in Deep Learning, computer vision, reinforcement learning, and AI on the Edge.
 
 
 #### Connect:
