@@ -1,11 +1,20 @@
-### Hi there 👋
+### Hi, I'm Nikola 👋
 
-I am Nikola, Machine Learning Engineer interested in deep learning, computer vision, reinforcement learning, and AI on the Edge.
+I'm a Machine Learning / Deep Learning Engineer & Team Lead.
 
+🔭 I’m currently working on implementation of the AI services that will facilitate and accelerate the transition of the state-of-the-art models from research to production and real-time AI soulutions for resource constrained devices.  
 
-#### Connect:
+#### I can help you with:
+* Designing, building and managing digital products
+* Leading and managing teams
+* Developing AI Applications and Systems 
 
-[<img align="left" alt="Nikola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nmilojevic)
+#### You can find me on:
+* [LinkedIn](https://www.linkedin.com/in/nmilojevic)
+* [Upwork](https://www.upwork.com/o/profiles/users/~0190bc5979598e3380/)
+* [Github (already here)](https://github.com/nmilojevic23)
+* [Kaggle](https://www.kaggle.com/dzoni23)
+
 
 <!--
 **nmilojevic23/nmilojevic23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
