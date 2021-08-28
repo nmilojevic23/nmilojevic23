@@ -1,6 +1,6 @@
 ### Hi, I'm Nikola 👋
 
-I'm a Machine Learning / Deep Learning Engineer & Team Lead.
+I'm a Machine Learning / Deep Learning Engineer & Team Lead [CV](https://github.com/nmilojevic23/curriculum-vitae/blob/master/latex/Nikola_Milojevi__Curriculum_Vitae.pdf).
 
 🔭 I’m currently working on implementation of the AI services that will facilitate and accelerate the transition of the state-of-the-art models from research to production and real-time AI soulutions for resource constrained devices.  
 
