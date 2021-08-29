@@ -2,7 +2,7 @@
 
 I'm a Machine Learning / Deep Learning Engineer & Team Lead.
 
-🔭 I’m currently working on implementation of the AI services that will facilitate and accelerate the transition of the state-of-the-art models from research to production and real-time AI soulutions for resource constrained devices.  
+🔭 I’m currently working on implementation of the AI services that will facilitate and accelerate the transition of the state-of-the-art models from research to production and real-time AI soulutions for resource constrained IoT devices.  
 
 #### I can help you with:
 * Designing, building and managing digital products
