@@ -16,13 +16,14 @@ I'm a Machine Learning / Deep Learning Engineer & Team Lead.
 * [Kaggle](https://www.kaggle.com/dzoni23)
 
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/nmilojevic23?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=nmilojevic23&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nmilojevic23&count_private=true&show_icons=true&hide=issues" alt="github readme stats" />
   </a>    
   <a href="https://github.com/nmilojevic23?tab=repositories">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nmilojevic23&layout=compact" alt="top langs" height="156"/> </a>
-</p>
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nmilojevic23&layout=compact" alt="top langs" /> 
+  </a>
+</p> -->
 
 
 <!--
